@@ -607,12 +607,12 @@
   dependencies:
     optional "0.1.4"
 
-"@nestjs/typeorm@6.1.1":
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/typeorm/-/typeorm-6.1.1.tgz#bf1f45f79a2b498dd33b82c1f5bd04e7797cfec3"
-  integrity sha512-KCtRYiftUfvU4QE0mlhNUHEVfo9LmFHZ7QPcSxgmV00Tf62lGX0P2vJ0Ee6zHrgPuT4TzUn+SkX70ZdeQxio3Q==
+"@nestjs/typeorm@6.3.4":
+  version "6.3.4"
+  resolved "https://registry.yarnpkg.com/@nestjs/typeorm/-/typeorm-6.3.4.tgz#d73ee782080500f7d314ec5131fe9cb32817d2a4"
+  integrity sha512-qMUHaTMo+U5WOlMfL0ogNm8C2T/Kej/v+NnjSixx/UmtluLvTbNYuZUfbHI9ePCmtCXDV0lMRvIAi+U5LCjsbA==
   dependencies:
-    uuid "3.3.2"
+    uuid "^7.0.2"
 
 "@nestjs/websockets@6.2.4":
   version "6.2.4"
@@ -12754,6 +12754,11 @@ uuid@3.3.2, uuid@^3.0.0, uuid@^3.0.1, uuid@^3.1.0, uuid@^3.3.2:
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha512-yXJmeNaw3DnnKAOKJE51sL/ZaYfWJRl1pK9dr19YFCu0ObS231AB1/LbqTKRAQ5kw8A90rA6fr4riOUpTZvQZA==
+
+uuid@^7.0.2:
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-7.0.2.tgz#7ff5c203467e91f5e0d85cfcbaaf7d2ebbca9be6"
+  integrity sha512-vy9V/+pKG+5ZTYKf+VcphF5Oc6EFiu3W8Nv3P3zIh0EqVI80ZxOzuPfe9EHjkFNvf8+xuTHVeei4Drydlx4zjw==
 
 validate-npm-package-license@^3.0.1:
   version "3.0.4"
